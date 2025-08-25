@@ -4,7 +4,7 @@ Was built to fix errors for No Hesi (assetto corsa server).
 
 *This project is not associated with, or endoresed by No Hesi LLC*
 
-*This version has no commits, due to me making a new repo for the final updated version. This project is now NOT being maintained.*
+*This version has no commits, due to me making a new repo for this final updated version. This project is now NOT being maintained.*
 
 ## Features
 1. Transcribes images uploaded to a pretermined discord channel, using ChatGPT.
